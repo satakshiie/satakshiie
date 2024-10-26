@@ -15,5 +15,9 @@
     ♡♡<img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/React logo PNG.jpg" alt="React logo PNG" width="50" />
 </p>
 <br>✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊
- 
-
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/Minecraft Aesthetic.gif" alt="aesthetic" width="450" height="150" />
+</p>
+<br>
+🪐<strong>Connect with me</strong>
