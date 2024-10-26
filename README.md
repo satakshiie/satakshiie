@@ -6,5 +6,6 @@
 <br>
 <strong><em>🪐Work in progress</em></strong>
 <br>
+<img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/css3-logo.jpg" alt="CSS3 Logo" width="50" />
 
 
