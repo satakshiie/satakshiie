@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/css3-logo.jpg" alt="CSS3 Logo" width="50" />
+    ♡♡<img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/css3-logo.jpg" alt="CSS3 Logo" width="50" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/css3-logo.jpg" alt="CSS3 Logo" width="50" />
+    ♡♡<img src="https://raw.githubusercontent.com/satakshiie/satakshiie/main/jus-logo.jpg" alt="JUS Logo" width="50" />
 </p>
