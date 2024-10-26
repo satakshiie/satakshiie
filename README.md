@@ -21,3 +21,13 @@
 </p>
 <br>
 🪐<strong>Connect with me</strong>
+<br>
+<br>- ![Email Icon](https://iconduck.com/icons/240287/gmail) [Email me](mailto:satakshisrivastava11@gmail.com)
+
+
+<br>- ![Instagram Icon](https://img.icons8.com/ios-filled/50/000000/instagram-new.png) [Follow me on Instagram](https://www.instagram.com/satakshiie)
+
+
+
+
+
