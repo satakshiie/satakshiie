@@ -22,6 +22,8 @@
 <br> - [✉️ gmail](mailto:satakshisrivastava11@gmail.com)
 <br>- 📸 [Follow me on Instagram](https://www.instagram.com/satakshiie)
 
+![Satakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satakshiie&show_icons=true&theme=tokyonight)
+
 <br>✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺₊✧✩₊°.⋆☾⋆⁺
 <br>
 <p align="center">
